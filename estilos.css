@@ -1,0 +1,75 @@
+
+body {
+    color:#595B83
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.uno {
+    padding: 1em;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    background-color: #916BBF;
+    box-shadow: 15px 20px #3D2C8D;
+    color: #F0D9FF;
+}
+
+.dos {
+    padding: 1em;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    background-color: #F4ABC4;
+    box-shadow: -15px -20px #595B83;
+    color: #595B83;
+}
+
+
+.tres {
+    padding: 1em;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    background-color: #916BBF;
+    box-shadow: 15px 20px 10px #3D2C8D;
+    color: #F0D9FF;
+}
+
+.cuatro {
+    padding: 1em;
+    box-sizing: border-box;
+    width: 200px;
+    height: 200px;
+    background-color: #F4ABC4;
+    box-shadow: -15px -20px 105px #595B83 inset;
+    color: #595B83;
+}
+
+.contenido {
+    display: flex;
+    justify-content:space-around;
+    padding: 50px;
+}
+
+.txt1 {
+    text-shadow: 5px 5px #3D2C8D;
+    color: #916BBF;
+}
+
+.txt2 {
+    text-shadow: 5px 5px 10px #3D2C8D;
+    color: #916BBF;
+}
+
+.txt3 {
+    text-shadow: -5px -5px 5px rgb(255, 61, 213), 5px 5px 5px rgb(255, 0, 242);
+    color: #ffe1ff;
+}
+
+.txt4 {
+    text-shadow: -5px -5px 5px rgb(255, 61, 213), 3px 3px 1px rgb(255, 0, 242);
+    color: #ffe1ff;
+}
